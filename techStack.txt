@@ -1,0 +1,54 @@
+Identify 3 software or technology companies the interest you.
+
+Conduct research to figure out some or all of the elements of each company’s technology stack.
+Check job openings/job descriptions, engineering blogs, and anything else that may have information 
+about what the company uses to write/build it’s software products.
+
+Record your findings in a google doc. If you can find information about 
+why the company chose that stack, include that as well.
+
+
+1) Walmart
+
+Stacks: 
+Java
+Python
+React
+Selenium
+Jenkins
+Git
+SQL
+REST
+
+Walmart reasons: 
+"We’ve unlocked automation for our API partners" 
+Job descriptions: Hands-on programming, Automation Scripting, testing experience in JAVA, Selenium Web Driver
+Extensive hands-on automation, some Manual testing 
+
+
+
+2) Apple
+
+Tech Stack:
+Java
+C/C++
+PHP
+Python
+Ruby
+Unix
+MySQL
+Swift
+Cocoa
+
+
+3) Chase
+
+Tech Stack: 
+Node
+Python
+Java
+.Net
+React
+Angular
+MySQL
+
